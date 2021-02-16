@@ -1,4 +1,4 @@
-#get the variables and set the word that hat to be guessed
+#get the variables and set the word that has to be guessed
 lifes=5
 word=input('Please insert your word here: ')
 tried=[]
