@@ -1,2 +1,2 @@
 #Hangman.txt
-##Hi, this is my first public project
+\nHi, this is my first public project
